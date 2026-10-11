@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Dacia_Duster"
+
+generations:
+  - name: "First Generation (HS)"
+    start_year: 2010
+    end_year: 2017
+    description: "The Dacia Duster sold as a Renault in Latin America, Russia and India."
+  - name: "Second Generation (HM)"
+    start_year: 2018
+    end_year: 2024
+    description: "Sold as a Renault in Latin America and Russia, with 1.6 L and 2.0 L gasoline and 1.5 dCi engines."
